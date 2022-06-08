@@ -6,3 +6,17 @@
 Neliels informatīvs projekts, kas gādātu pamata zināšanas par **Do While ciklu un C++ programmēšanas valodu**
 
 ###  To - Do list
+
+- [x] Izstrādāt informatīvu mācību materiālu (prezentācija) par ciklu
+
+- [x] Izveidot 5 programmu kodu piemērus pielietojot **Do While** ciklu
+
+- [x] Izveidot elektronisko testu iekš repl.it izstrādes vidē
+
+- [x] Programmā Microsoft Excel, izstrādāt **testēšanas dokumentāciju** (testpiemēri, apraksts, žurnāls u.c.)
+
+- [x] Izvietot jeb _pushot_ projekta failus uz GitHub
+
+- [x] Izveidot Microsoft PowerPoint prezentāciju par visa projekta kopsavilkumu, secinājumi jeb informācijas apkopojumu
+
+- [x] Veikt pielabojumus un iesūtīt skolotāju e-klase pastā
